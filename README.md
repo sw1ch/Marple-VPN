@@ -39,11 +39,7 @@
 <h2 align="center">Пять тем</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sw1ch/mrpl-dist/media/m/swatch-marple.png" alt="" height="22" align="absmiddle">&nbsp;<b>Марпл</b>&nbsp;<sup>основная</sup>&emsp;
-  <img src="https://raw.githubusercontent.com/sw1ch/mrpl-dist/media/m/swatch-dusk.png" alt="" height="22" align="absmiddle">&nbsp;<b>Сумерки</b>&emsp;
-  <img src="https://raw.githubusercontent.com/sw1ch/mrpl-dist/media/m/swatch-forest.png" alt="" height="22" align="absmiddle">&nbsp;<b>Лес</b>&emsp;
-  <img src="https://raw.githubusercontent.com/sw1ch/mrpl-dist/media/m/swatch-garnet.png" alt="" height="22" align="absmiddle">&nbsp;<b>Гранат</b>&emsp;
-  <img src="https://raw.githubusercontent.com/sw1ch/mrpl-dist/media/m/swatch-graphite.png" alt="" height="22" align="absmiddle">&nbsp;<b>Графит</b>&nbsp;<sup>новая</sup>
+  <img src="https://raw.githubusercontent.com/sw1ch/mrpl-dist/media/m/swatch-marple.png" alt="" height="16" align="absmiddle">&nbsp;<b>Марпл</b>&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/sw1ch/mrpl-dist/media/m/swatch-dusk.png" alt="" height="16" align="absmiddle">&nbsp;<b>Сумерки</b>&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/sw1ch/mrpl-dist/media/m/swatch-forest.png" alt="" height="16" align="absmiddle">&nbsp;<b>Лес</b>&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/sw1ch/mrpl-dist/media/m/swatch-garnet.png" alt="" height="16" align="absmiddle">&nbsp;<b>Гранат</b>&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/sw1ch/mrpl-dist/media/m/swatch-graphite.png" alt="" height="16" align="absmiddle">&nbsp;<b>Графит</b>&nbsp;<sup>новая</sup>
 </p>
 
 <p align="center">
