@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sw1ch/mrpl-dist/media/m/clients-2.png" alt="Marple VPN на Windows, macOS и Android" width="880">
+  <img src="https://raw.githubusercontent.com/sw1ch/mrpl-dist/media/m/clients-3.png" alt="Marple VPN на Windows, macOS и Android" width="880">
 </p>
 
 <p align="center">
